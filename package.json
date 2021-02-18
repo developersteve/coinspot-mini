@@ -1,0 +1,31 @@
+{
+  "name": "coinspot-mini",
+  "version": "0.1.0",
+  "description": "A mini sdk for the Read Only Coinspot API that only has balances and transactions calls.",
+  "keywords": [
+    "btc",
+    "bitcoin",
+    "litecoin",
+    "ltc",
+    "dogecoin",
+    "doge",
+    "coinspot"
+  ],
+  "author": {
+    "name": "developersteve",
+    "url": "https://github.com/developersteve"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developersteve/coinspot-mini"
+  },
+  "main": "coinspot.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/developersteve/coinspot-mini/issues"
+  }
+}
